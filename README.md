@@ -3,3 +3,5 @@
 Este arquivo consiste na resolução de um exercício proposto onde a finalidade era criar um banco de dados com alguns autores e livros aleatórios e fazer pequenas Querys para testar o banco.
 
 O exercício foi feito utilizando o DBeaver e o Postgres para o diagrama físico. Os diagramas conceitual e lógico foram feitos utilizando a ferramenta brModelo.
+
+O exercício em questão foi feito em colaboração com outros cinco membros, onde cada um submeteria em sua respectiva conta.
